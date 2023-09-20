@@ -180,11 +180,11 @@ a .download-cv:hover {
     margin-right: 100px;
     border: 1px solid var(--main-color);
     border-radius: 20px;
-    transition: .5s ease-out;
-   
+    transition: all .3s;
+    box-shadow: 10px 10px 15px 1px var(--main-color); 
 }
 .about-pic img:hover {
-    box-shadow: 10px 10px 15px var(--main-color);
+    box-shadow: -10px 10px 15px -1px var(--main-color);
     z-index: 100;
 }
 .services {
