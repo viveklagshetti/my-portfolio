@@ -348,7 +348,6 @@ form #message {
 .send-message :hover {
   box-shadow: 0px 0px 20px var(--main-color);
 }
-
 /* media queries to make website responsive */
 
 @media screen and (max-width: 1440px) and (min-width: 769px) {
@@ -501,5 +500,4 @@ form #message {
         justify-content: center;
         margin-left: 300px;
       }
-      
-}
+
